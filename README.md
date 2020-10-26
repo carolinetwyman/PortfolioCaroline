@@ -1,1 +1,1 @@
-# This is a storehouse of works I am proud of.
+# This is a storehouse of my exemplary projects
